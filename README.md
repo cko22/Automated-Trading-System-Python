@@ -9,7 +9,8 @@ end of an hour.
 Files include:
 - Project Description
 - Code in Jupyter Notebook
-- Project Flow 
+- Jupyter Notebook in PDF format
+- Algorithm Overview 
 - Power Point Presentation
 - Feedback 
 
